@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace feladat12_5
+namespace feladat12_15
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace feladat12_5
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmMain());
+            Application.Run(new Form1());
         }
     }
 }

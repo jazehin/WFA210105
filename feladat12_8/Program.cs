@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace feladat12_5
+namespace feladatok12_8
 {
     static class Program
     {
