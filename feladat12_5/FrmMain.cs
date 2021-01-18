@@ -56,5 +56,11 @@ namespace feladat12_5
                 lblResult.Text = btnDivision.Text;
             }
         }
+
+        private void TxtTbChanged(object sender, EventArgs e)
+        {
+            lblResult.Text = "Művelet eredménye:;
+            tbxResult.Text = "";
+        }
     }
 }
