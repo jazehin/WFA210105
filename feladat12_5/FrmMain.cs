@@ -59,7 +59,7 @@ namespace feladat12_5
 
         private void TxtTbChanged(object sender, EventArgs e)
         {
-            lblResult.Text = "Művelet eredménye:;
+            lblResult.Text = "Művelet eredménye";
             tbxResult.Text = "";
         }
     }
