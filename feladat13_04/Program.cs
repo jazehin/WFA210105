@@ -16,7 +16,7 @@ namespace feladat13_04
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new FrmMain());
         }
     }
 }

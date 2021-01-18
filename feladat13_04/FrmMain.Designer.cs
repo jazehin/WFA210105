@@ -1,6 +1,6 @@
 ﻿namespace feladat13_04
 {
-    partial class Form1
+    partial class FrmMain
     {
         /// <summary>
         /// Required designer variable.
@@ -186,7 +186,7 @@
             this.gbxRadioButtons.TabStop = false;
             this.gbxRadioButtons.Text = "Áfa kulcs:";
             // 
-            // Form1
+            // FrmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -202,8 +202,8 @@
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label2);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "FrmMain";
+            this.Text = "Áfa számla";
             this.gbxRadioButtons.ResumeLayout(false);
             this.gbxRadioButtons.PerformLayout();
             this.ResumeLayout(false);
