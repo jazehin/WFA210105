@@ -1,0 +1,4 @@
+Euró;346.97;366.96
+Amerikai dollár;285.09;301.52
+Ausztrál dollár;218.80;233.74
+Angol font;389.33;411.76
